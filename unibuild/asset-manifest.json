@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/unibuild/static/css/main.9071bff3.css",
+    "main.js": "/unibuild/static/js/main.8895b043.js",
+    "static/js/787.09e21e13.chunk.js": "/unibuild/static/js/787.09e21e13.chunk.js",
+    "static/media/visual.png": "/unibuild/static/media/visual.e194fca9210ce8dc2535.png",
+    "static/media/logo.png": "/unibuild/static/media/logo.d17800988aedaff6d101.png",
+    "static/media/hr.png": "/unibuild/static/media/hr.69eed8b983a6c56fe703.png",
+    "static/media/notifications.png": "/unibuild/static/media/notifications.dec59ec8643664dee91b.png",
+    "static/media/training.png": "/unibuild/static/media/training.19847de656d4cb280c4e.png",
+    "static/media/communication.png": "/unibuild/static/media/communication.c74809eafafd5eaf2560.png",
+    "static/media/timesheet.png": "/unibuild/static/media/timesheet.8272f24d99154deb1730.png",
+    "static/media/profile.png": "/unibuild/static/media/profile.17a703322d6b3d0c6967.png",
+    "static/media/manuals.png": "/unibuild/static/media/manuals.a236e38c2c43923c1038.png",
+    "static/media/expenses.png": "/unibuild/static/media/expenses.921994f218563f6c7670.png",
+    "index.html": "/unibuild/index.html",
+    "main.9071bff3.css.map": "/unibuild/static/css/main.9071bff3.css.map",
+    "main.8895b043.js.map": "/unibuild/static/js/main.8895b043.js.map",
+    "787.09e21e13.chunk.js.map": "/unibuild/static/js/787.09e21e13.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9071bff3.css",
+    "static/js/main.8895b043.js"
+  ]
+}
