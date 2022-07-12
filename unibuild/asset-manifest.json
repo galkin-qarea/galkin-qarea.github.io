@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/unibuild/static/css/main.9071bff3.css",
-    "main.js": "/unibuild/static/js/main.8895b043.js",
+    "main.js": "/unibuild/static/js/main.9d4e2709.js",
     "static/js/787.09e21e13.chunk.js": "/unibuild/static/js/787.09e21e13.chunk.js",
     "static/media/visual.png": "/unibuild/static/media/visual.e194fca9210ce8dc2535.png",
     "static/media/logo.png": "/unibuild/static/media/logo.d17800988aedaff6d101.png",
@@ -15,11 +15,11 @@
     "static/media/expenses.png": "/unibuild/static/media/expenses.921994f218563f6c7670.png",
     "index.html": "/unibuild/index.html",
     "main.9071bff3.css.map": "/unibuild/static/css/main.9071bff3.css.map",
-    "main.8895b043.js.map": "/unibuild/static/js/main.8895b043.js.map",
+    "main.9d4e2709.js.map": "/unibuild/static/js/main.9d4e2709.js.map",
     "787.09e21e13.chunk.js.map": "/unibuild/static/js/787.09e21e13.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9071bff3.css",
-    "static/js/main.8895b043.js"
+    "static/js/main.9d4e2709.js"
   ]
 }
